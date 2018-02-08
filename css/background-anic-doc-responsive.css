@@ -1,0 +1,37 @@
+
+
+@media (min-width:320px) and (max-width:480px){
+
+.anic-img{
+ top:40px;
+left:68%;
+width:70px;
+height:75px;
+}
+.anic-img h5{font-size:8px;}
+	
+
+ 
+.anic-img h5{text-align:center;
+margin:0 auto;}
+
+.mini-div h1{text-align:left;
+margin:20px;
+font-size:20px;
+}
+.mini-div p{text-align: justify;
+margin-left:10px;
+margin-right:10px;
+font-size:16px;
+}
+.table{margin:10px;
+width:95%;
+top:20px;
+
+box-shadow:none;
+}
+.table caption{font-size:16px;}
+.mini-div h3{margin:20px;
+}
+th,tr,td{font-size:12px;}
+}
